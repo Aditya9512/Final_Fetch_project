@@ -1,0 +1,44 @@
+/* App.css */
+
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+    th:hover {
+        background-color: #e0e0e0;
+    }
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.loading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #666;
+    padding: 20px;
+}
+
+.error {
+    font-size: 24px;
+    font-weight: bold;
+    color: #red;
+    padding: 20px;
+}

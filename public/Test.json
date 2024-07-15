@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "firstName": "Neil",
+        "lastName": "Armstrong",
+        "birthday": "1930-08-05",
+        "gender": "m"
+    },
+    {
+        "id": 2,
+        "firstName": "Marie",
+        "lastName": "Curie",
+        "birthday": "1867-11-07",
+        "gender": "f"
+    },
+    {
+        "id": 4,
+        "firstName": "Keanu",
+        "lastName": "Reeves",
+        "birthday": "1964-09-02",
+        "gender": "m"
+    },
+    {
+        "id": 7,
+        "firstName": "Billie",
+        "lastName": "Eilish",
+        "birthday": "2001-12-18",
+        "gender": "f"
+    }
+]
